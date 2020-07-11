@@ -10,7 +10,7 @@
             <table border="1" cellspacing="0" celpagging="0">
                 <thead>
                     <tr>
-                        <th colspan="2">INGRESE USUARIO Y CLAVE</th>
+                        <th colspan="2">INGRESE USUARIO Y CLAVE: </th>
                         <th></th>
                     </tr>
                 </thead>
