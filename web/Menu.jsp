@@ -27,7 +27,7 @@
                         <td><a href="Datoseditorial.jsp">Mostrar</a></td>
                     </tr>
                     <tr>                   
-                        <td>Muestra la lista de paises</td>          
+                        <td>Lista de paises </td>          
                         <td><a href="Datospais.jsp">Mostrar</a></td>         
                     </tr> 
                     <tr>                   
